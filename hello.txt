@@ -2,3 +2,4 @@ Hello from MASTER
 Hello from FEATURE
 New local change 
 Change from computer B 
+Another work from computer B 
